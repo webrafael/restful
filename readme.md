@@ -8,7 +8,7 @@ Detalhes da instalação
 * Instalar banco de dados e tabela
 * Comando opcional: `php artisan serve` para server interno do laravel ou
 * Localhost utilizando seu servidor predileto
-* Ferramenta recomendada para testes `Postman`
+* Ferramenta recomendada para testes [Postman](https://www.getpostman.com/)
 
 Exemplo cadastro de teste utilizando o postman:
 
